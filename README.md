@@ -1,4 +1,4 @@
-# pk's leagues rank fetcher
+# League rank fetcher
 
 A simple python script to fetch a player's currents ranks on League of Legends
 

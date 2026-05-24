@@ -2,4 +2,5 @@
 .env
 
 # folders
-/env
+env/
+__pycache__/
